@@ -1,0 +1,27 @@
+// - a comment
+function - a set of statements, made up of four parts: a return type, a name, parameter list and the function body
+output - something that is showed to you via the program, usually an output of text
+compiler - something that turns your source code into object/machine code
+error - bad stuff, usually something is wrong, many types in C++: run time, compile-time, link-time(?)
+linker - something that takes object/machine codes (can take multiple files of it), links it together and creates an executable
+command line - terminal, thing to compile in if you're not using an IDE (like me)
+executable - the final output from the compile and linker, which will run your code
+object code - code that your computer hardware can interpret
+comment - something to annotate your code and explain stuff
+import - import statement to gain use of things, i.e. `import std` means import the standard library
+library - a collection of programs which give access to additional features, think I/O in our first program
+module - one piece of the library, so like the iostream from the std library
+bug - a problem, named that because an actual moth got in a computer back in the day
+main() - a function that is needed in C++ files, although i have seen some exist without one
+C++ - language that i be learning, was originally called C with Classes
+IDE - lol, just don't... no i jest, it just helps out with writing C++ so you can highlight syntax and see errors, then compile and run within 1 window
+source code - the stuff you write, which you understand, in syntax of the language you're writing in usually with intentions to be compiled eventually
+statement - a sentence in programming really, see the hello world lines in my 1st program
+#include - apparently the old way to using import, but i still see it used today
+debugging - to get rid of the bugs, to comb through your code and see where things went wrong
+<< - the output operator
+header file - <iostream> in my case, which is from the standard library but they be local too. you just import when you need things from them
+program - the whole thing, source code and that
+compile-time - the time when it's compiling
+cout - see out, character output stream
+std - standard library
