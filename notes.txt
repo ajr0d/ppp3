@@ -1,0 +1,37 @@
+5 types of importance:
+int for integers (30) -- no floating point or decimal point
+double for floating point-numbers (3.0) - with a floating point / decimal
+char for individual characters ('.') - enclosed within single quotes
+string for character strings ("Hello") - delimited by double quotes
+bool for logical variables (true) - either true or false
+Initialization: giving a variable its initial value.
+Assignment: giving a variable a new value.
+my pen ran out of ink so i'm doing the review qna (for chapter 2) here, if you don't get the answers, you should get the book
+you should also think of better things to do rather than read my answers on github cus i am wrong
+1. prompt is input from user
+2. >> -- like cin >> x
+3. = -- like x = 10
+4. init the variable string as an int, so int x = 0; then use cin like cin >> x i'd use cout to print a line out as a reminder too
+5. \n is newline
+6. whitespace
+7. non-numeric char
+8. cout << "Hello, " << first_name << "!\n";
+9. the "place" where we store data
+10. literals are data, like 10, 'x', "hello"
+11. five literals: int, float, char, string and boolean
+12. a variable is kind of like a box which has a literal piece of data inside it (a value)
+13. char is 8-bit byte, int is 4 bytes, double is 8 bytes
+14. a bit or a bytes (4 bytes = 32 bits)
+15. = is assingment, == is equals to
+16. when you give a variable a name
+17. iniitalization is when you first create the variable with a value, assignment is just changing the value but the variable already existed
+18. when you add words together and it can make a sentence or make a full-name, like "Hello" + "World" equals "HelloWorld"
+19. +, *, /, %, -
+20. the names that begin with an a number, contain a special character or start with an underscore are bad, i think compiler rejects the first 2 and the underscore *might* work but it's bad practise
+21. underscored names as they might exist in object/machine code, keywords that used for something else, long names because they're hard to read, nondescriptive names, capitalised names
+22. descriptive enough, follows rules of "first_name" with an underscore between words, not too long so it's easy to read and establish it's worth when looking at a program
+23. it's a general rule, ensures your objects are used correctly
+24. it rounds down
+25. use widening conversions
+26. make sure our types are correct, think of widening and narrowing
+27. when the type it'll be is explicit, and some more complicated stuff

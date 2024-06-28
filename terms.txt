@@ -25,3 +25,31 @@ program - the whole thing, source code and that
 compile-time - the time when it's compiling
 cout - see out, character output stream
 std - standard library
+assignment - when you give a value to a variable
+increment - adding 1, usually done in loops
+type - there are 5, but it's what your data represents, i.e. a number, a string
+declaration - statement that gives a name and type to an object
+object - some mory that holds a value of given type
+int - number
+== - equals to
+< - less than
+double - floating point number
+!= - not equals to
+<= - less than or equal to
+= - assignment
+> - greater than
+++ - increment
+>= - greater than or equal to
+string - a list of characters, used to form sentences in programs
+auto - used when the type is obvious and some complex cases
+definition - a declaration which sets aside memory for an object
+operator - think arithmetic, think of + represents addition, > represents greater than
+concatenation - adds two strings together, so "Hello" + "World" is "HelloWorld"
+name - usually what you give a variable, an identifier
+value - a set of bits in memory interpreted according to a type
+widening - conversions that preser information, such as char to int
+cin - see in, character input stream, takes what a user types in
+initialization - giving a value to your variables, always do it
+type safety - see the above about initialization, it ensures all objects are used according to their rules of their type
+decrement - minus 1, opposite of increment
+truncation - rounds down, towards zero
